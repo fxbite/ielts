@@ -198,7 +198,7 @@ Piracy was an issue ancient Rome had to deal with, but it also brought some bene
 
 ## **READING PASSAGE 3**
 
-_You should spend about 20 minutes on_ _**Questions 27–40**__, which are based on Reading Passage 3 below._
+_You should spend about 20 minutes on_ _**Questions 27–40**_, which are based on Reading Passage 3 below._
 
 **The persistence and peril of misinformation**
 -----------------------------------------------
