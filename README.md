@@ -83,7 +83,7 @@ _Write your answers in boxes 8–13 on your answer sheet._
 
 ## **READING PASSAGE 2**
 
-_You should spend about 20 minutes on_ _**Questions 14–26**__, which are based on Reading Passage 2 below._
+_You should spend about 20 minutes on_ _**Questions 14–26**_, which are based on Reading Passage 2 below._
 
 **The pirates of the ancient Mediterranean**
 -----------------------------------
