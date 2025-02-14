@@ -189,6 +189,7 @@ _Choose_ _**ONE WORD ONLY**_ _from the passage for each answer._
 _Write your answers in boxes 24–26 on your answer sheet._
 
 **Ancient Rome and piracy**
+-----------------------------------
 
 Piracy was an issue ancient Rome had to deal with, but it also brought some benefits for Rome. For example, pirates supplied slaves that were important for Rome’s industries. However, attacks on vessels transporting **24**………………… to Rome resulted in calls for **25**…………………for the pirates responsible. Nevertheless, piracy continued, with some pirates demanding a **26**………………… for the return of the Roman officials they captured.
 
@@ -274,6 +275,7 @@ _Complete the summary using the list of phrases,_ _**A–J**_, below
 _Write the correct letter,_ _**A–J**_, in boxes 31–36 on your answer sheet.
 
 **What happens when people encounter misinformation?**
+-----------------------------------
 
 Although people have **31**……………… to misinformation, there is debate about precisely how and when we label something as true or untrue. The philosophers Descartes and Spinoza had **32**……………… about how people engage with information. While Descartes believed that people accept or reject information after considering whether it is true or not, Spinoza argued that people accepted all information they encountered (and by default misinformation) and did not verify or reject it until afterwards. Moreover, Spinoza believes that a distinct **33**……………… is involved in these stages. Recent research has provided **34**……………… for Spinoza’s theory and it would appear that people accept all encountered information as if it were true, even if this is for an extremely **35**………………, and do not label the information as true or false until later. This is consistent with the fact that the resources for scepticism and the resources for perceiving and encoding are in **36**……………… in the brain.
 
