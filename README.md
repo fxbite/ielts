@@ -1,6 +1,6 @@
-**READING PASSAGE 1**
+## **READING PASSAGE 1**
 
-_You should spend about 20 minutes on_ _**Questions**_ _**1-13**__, which are based on Reading Passage 1 below._
+_You should spend about 20 minutes on_ _**Questions**_ _**1-13**_, which are based on Reading Passage 1 below.
 
 **How tennis rackets have changed**
 -----------------------------------
@@ -25,7 +25,9 @@ However, many players go beyond these basic adjustments to the strings and make 
 
 Other changes to the frame involve the handle. Players have individual preferences for the shape of the handle and some will have the handle of one racket moulded onto the frame of a different racket. Other players make different changes. The professional Portuguese player Gonçalo Oliveira replaced the original grips of his rackets with something thinner because they had previously felt uncomfortable to hold.
 
-Racket customisation and modification have pushed the standards of the game to greater levels that few could have anticipated in the days of natural strings and heavy, wooden frames, and it’s exciting to see what further developments there will be in the future.**Questions 1–7**
+Racket customisation and modification have pushed the standards of the game to greater levels that few could have anticipated in the days of natural strings and heavy, wooden frames, and it’s exciting to see what further developments there will be in the future.
+
+### **Questions 1–7**
 
 Do the following statements agree with the information given in Reading Passage 1?
 
@@ -60,6 +62,8 @@ _Choose_ _**ONE WORD ONLY**_ _from the passage for each answer._
 _Write your answers in boxes 8–13 on your answer sheet._
 
 **The tennis racket and how it has changed**
+-----------------------------------
+
 
 ●   Mike and Bob Bryan made changes to the types of **8**………………… used on their racket frames.
 
@@ -73,11 +77,16 @@ _Write your answers in boxes 8–13 on your answer sheet._
 
 ●   Gonçalo Oliveira changed the **13**………………… on his racket handles.
 
-**READING PASSAGE 2**
+
+---
+
+
+## **READING PASSAGE 2**
 
 _You should spend about 20 minutes on_ _**Questions 14–26**__, which are based on Reading Passage 2 below._
 
 **The pirates of the ancient Mediterranean**
+-----------------------------------
 
 _In the first and second millennia BCE, pirates sailed around the Mediterranean, attacking ships and avoiding pursuers_
 
@@ -89,7 +98,9 @@ When one mentions pirates, an image springs to most people’s minds of a crew o
 
 Although piracy in the Mediterranean is first recorded in ancient Egypt during the reign of Pharaoh Amenhotep III (c 1390–1353 BCE), it is reasonable to assume it predated this powerful civilisation. This is partly due to the great importance the Mediterranean held at this time, and partly due to its geography. While the Mediterranean region is predominantly fertile, some parts are rugged and hilly, even mountainous. In the ancient times, the inhabitants of these areas relied heavily on marine resources, including fish and salt. Most had their own boats, possessed good seafaring skills, and unsurpassed knowledge of the local coastline and sailing routes. Thus, it is not surprising that during hardships, these men turned to piracy. Geography itself further benefited the pirates, with the numerous coves along the coast providing places for them to hide their boats and strike undetected. Before the invention of ocean-going caravels\* in the 15th century, ships could not easily cross long distances over open water. Thus, in the ancient world most were restricted to a few well-known navigable routes that followed the coastline. Caught in a trap, a slow merchant ship laden with goods had no other option but to surrender. In addition, knowledge of the local area helped the pirates to avoid retaliation once a state fleet arrived.
 
-————————————-\* caravel: a small, highly manoeuvrable sailing ship developed by the Portuguese
+— — — — — — — — — — — — 
+
+\* caravel: a small, highly manoeuvrable sailing ship developed by the Portuguese
 
 **C**
 
@@ -111,13 +122,13 @@ The rising power of ancient Rome required the Roman Republic to deal with piracy
 
 By now, Rome was well aware that pirates had outlived their usefulness. The time had come for concerted action. In 67 BCE, a new law granted Pompey vast funds to combat the Mediterranean menace. Taking personal command, Pompey divided the entire Mediterranean into 13 districts, assigning a fleet and commander to each. After cleansing one district of pirates, the fleet would join another in the next district. The process continued until the entire Mediterranean was free of pirates. Although thousands of pirates died at the hands of Pompey’s troops, as a long-term solution to the problem, many more were offered land in fertile areas located far from the sea. Instead of a maritime menace, Rome got productive farmers that further boosted its economy.
 
-**Questions 14–19**
+### **Questions 14–19**
 
 Reading Passage 2 has seven paragraphs, **A–G**.
 
 Which paragraph contains the following information?
 
-_Write the correct letter,_ _**A–G**__, in boxes 14–19 on your answer sheet._
+_Write the correct letter,_ _**A–G**_, in boxes 14–19 on your answer sheet.
 
 _**NB**_   _You may use any letter more than once._
 
@@ -133,9 +144,9 @@ _**NB**_   _You may use any letter more than once._
 
 **19**   a mention of the need for many sailing vessels to stay relatively close to land
 
-**Questions 20 and 21**
+### **Questions 20 and 21**
 
-_Choose_ _**TWO**_ _letters,_ _**A–E**__._
+_Choose_ _**TWO**_ _letters,_ _**A–E**_.
 
 _Write the correct letters in boxes 20 and 21 on your answer sheet._
 
@@ -151,9 +162,9 @@ Which **TWO** of the following statements does the writer make about inhabitan
 
 **E**   They stored many of the goods taken in pirate attacks in coves along the coastline.
 
-**Questions 22 and 23**
+### **Questions 22 and 23**
 
-_Choose_ _**TWO**_ _letters,_ _**A–E**__._
+_Choose_ _**TWO**_ _letters,_ _**A–E**_.
 
 _Write the correct letters in boxes 22 and 23 on your answer sheet._
 
@@ -169,7 +180,7 @@ Which **TWO** of the following statements does the writer make about piracy an
 
 **E**   A favourable view of piracy is evident in certain ancient Greek texts.
 
-**Questions 24–26**
+### **Questions 24–26**
 
 _Complete the summary below._
 
@@ -181,7 +192,11 @@ _Write your answers in boxes 24–26 on your answer sheet._
 
 Piracy was an issue ancient Rome had to deal with, but it also brought some benefits for Rome. For example, pirates supplied slaves that were important for Rome’s industries. However, attacks on vessels transporting **24**………………… to Rome resulted in calls for **25**…………………for the pirates responsible. Nevertheless, piracy continued, with some pirates demanding a **26**………………… for the return of the Roman officials they captured.
 
-### **READING PASSAGE 3**
+
+---
+
+
+## **READING PASSAGE 3**
 
 _You should spend about 20 minutes on_ _**Questions 27–40**__, which are based on Reading Passage 3 below._
 
@@ -206,9 +221,9 @@ This leads us to our third observation: a campaign to correct misinformation, ev
 
 We live at a time when widespread misinformation is common. Yet at this time many people also are passionately developing potential solutions and remedies. The journey forward undoubtedly will be a long and arduous one. Future remedies will require not only continued theoretical consideration but also the development and maintenance of consistent monitoring tools – and a recognition among fellow members of society that claims which find prominence in the media that are insufficiently based in scientific consensus and social reality should be countered. Misinformation arises as a result of human fallibility and human information needs. To overcome the worst effects of the phenomenon, we will need coordinated efforts over time, rather than any singular one-time panacea we could hope to offer.
 
-**Questions 27–30**
+### **Questions 27–30**
 
-_Choose the correct letter,_ _**A**__,_ _**B**__,_ _**C**_ _or_ _**D**__._
+_Choose the correct letter,_ _**A**_, _**B**_, _**C**_ _or_ _**D**_.
 
 _Write the correct letter in boxes 27–30 on your answer sheet._
 
@@ -252,11 +267,11 @@ _Write the correct letter in boxes 27–30 on your answer sheet._
 
 **D**   Regulation fails to prevent misinformation from appearing in the media.
 
-**Questions 31–36**
+### **Questions 31–36**
 
-_Complete the summary using the list of phrases,_ _**A–J**__, below_
+_Complete the summary using the list of phrases,_ _**A–J**_, below
 
-_Write the correct letter,_ _**A–J**__, in boxes 31–36 on your answer sheet._
+_Write the correct letter,_ _**A–J**_, in boxes 31–36 on your answer sheet.
 
 **What happens when people encounter misinformation?**
 
