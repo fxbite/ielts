@@ -1,6 +1,6 @@
 ## **PART 1**
 
-[Listen to the audio](https://github.com/fxbite/ielts/raw/refs/heads/main/cam19-test1-part1.m4a)
+[Listen to the audio](https://cdn.jsdelivr.net/gh/fxbite/ielts@main/cam19-test1-part1.m4a)
 
 ### **Questions 1–10**
 
@@ -49,7 +49,7 @@ Adults, such as **10**…………………., free
 
 ## **PART 2**
 
-[Listen to the audio](https://github.com/fxbite/ielts/raw/refs/heads/main/cam19-test1-part2.m4a)
+[Listen to the audio](https://cdn.jsdelivr.net/gh/fxbite/ielts@main/cam19-test1-part2.m4a)
 
 
 ### **Questions 11–15**
@@ -120,7 +120,7 @@ _Write the correct letter,_ _**A–H**_, next to Questions 16–20.
 
 ## **PART 3**
 
-[Listen to the audio](https://github.com/fxbite/ielts/raw/refs/heads/main/cam19-test1-part3.m4a.m4a)
+[Listen to the audio](https://cdn.jsdelivr.net/gh/fxbite/ielts@main/cam19-test1-part3.m4a)
 
 ### **Questions 21 and 22**
 
@@ -195,7 +195,7 @@ _Choose_ _**SIX**_ _answers from the box and write the correct answer,_ _**A�
 
 ## **PART 4**
 
-[Listen to the audio](https://github.com/fxbite/ielts/raw/refs/heads/main/cam19-test1-part4.m4a)
+[Listen to the audio](https://cdn.jsdelivr.net/gh/fxbite/ielts@main/cam19-test1-part4.m4a)
 
 ### **Questions 31–40**
 
